@@ -5,8 +5,10 @@ Episode Deluxe is a visual novel game engine written in C.
 
 Contributions
 -------------
-For legal reasons, I currently do not accept contributions without prior
-arrangements.
+You can contribute to RGE by submitting bug reports and pull requests at
+http://github.com/Ikaheishi/Episode-Deluxe
+
+For more information, please see the file named CONTRIBUTING.
 
 
 Legal stuff
